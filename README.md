@@ -13,7 +13,7 @@
 ![スクリーンショット 2025-03-08 205153](https://github.com/user-attachments/assets/25009463-b1a5-4834-97de-0fcf63576d03)
   
 # 動作環境：  
-VS code (matplotlibのGUIが優秀)  
+VS code  
   
 # 使い方：  
 全てのプログラムファイルを同じフォルダに入れて実行する。関数は"oscillo_plotter_func_v1.py"にまとめられている。  
@@ -36,4 +36,8 @@ ax2.plot(matans[0]*x_scale,matans[1],"r-")
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/72d5b1b8-8a6e-4cc0-8900-9eb94bbfe52f" />
 見やすくなりました。GUIで設定できるのは便利！  
   
-バグ・質問などあればTwitterにて報告ください。とくにFFTは数値の確かさに関して自信がありません。：@Testes_int
+バグ・質問などあればTwitterにて報告ください。とくにFFTは数値の確かさに関して保証できません。また、自由に改造・改良し、適当に2次配布していただいて結構です。：@Testes_int  
+
+  # License
+The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
+
