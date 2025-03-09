@@ -20,9 +20,9 @@ VS code (matplotlibのGUIが優秀)
   
 # 補足：  
 "CSV_example"内の"SDS00365_downsampled.csv"を読み込み、例えば以下のように左軸にCH1を、右軸にCH2をplotしてみる。  
-'''  
+```
 fig, ax = plt.subplots(nrows=1, ncols=1, squeeze=False, tight_layout=True, figsize=FigSize, sharex = "col")
 ax[0,0].plot(matans[0]*x_scale,matans[2],"k-")
 ax2 = ax[0,0].twinx()#右軸を作る.
 ax2.plot(matans[0]*x_scale,matans[1],"r-")
-'''  
+```
