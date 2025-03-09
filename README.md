@@ -14,4 +14,7 @@
 動作環境：VS code (matplotlibのGUIが優秀)  
   
 使い方：  
-全てのプログラムファイルを同じフォルダに入れて実行する。関数は"oscillo_plotter_func_v1.py"にまとめられている。
+全てのプログラムファイルを同じフォルダに入れて実行する。関数は"oscillo_plotter_func_v1.py"にまとめられている。  
+  
+補足：  
+CSV"SDS00365_downsampled.csv"を読み込むと、
