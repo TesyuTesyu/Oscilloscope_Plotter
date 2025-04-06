@@ -4,16 +4,15 @@
 できること：  
   
 1. 時間軸のデータのプロット、微分、積分  
-![スクリーンショット 2025-03-08 205535](https://github.com/user-attachments/assets/d1a6c300-bd35-4be5-bd68-382806b7ebd5)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d1a6c300-bd35-4be5-bd68-382806b7ebd5" />
   
-2. FFT  
-![スクリーンショット 2025-03-08 205327](https://github.com/user-attachments/assets/71b0bd59-3412-4cea-b339-73f99ac780b8)
+3. FFT  
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/71b0bd59-3412-4cea-b339-73f99ac780b8" />
   
-3. スペクトログラム  
-![スクリーンショット 2025-03-08 205153](https://github.com/user-attachments/assets/25009463-b1a5-4834-97de-0fcf63576d03)
+4. スペクトログラム  
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/25009463-b1a5-4834-97de-0fcf63576d03" />
 
-4. スペクトログラム, いくつかのデータを重ねてプロット
-
+5. スペクトログラム, いくつかのデータを重ねてプロット
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/99dbf1af-626c-4e5f-8e50-b4b3b76f4239" />
   
 # 動作環境：  
