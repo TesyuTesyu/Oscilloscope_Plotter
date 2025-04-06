@@ -13,7 +13,8 @@
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/25009463-b1a5-4834-97de-0fcf63576d03" />
 
 5. スペクトログラム, いくつかのデータを重ねてプロット
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/99dbf1af-626c-4e5f-8e50-b4b3b76f4239" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9d1c7941-3604-46ce-9c31-6d66bbf59b09" />
+
   
 # 動作環境：  
 VS code  
