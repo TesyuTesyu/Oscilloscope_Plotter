@@ -11,6 +11,9 @@
   
 3. スペクトログラム  
 ![スクリーンショット 2025-03-08 205153](https://github.com/user-attachments/assets/25009463-b1a5-4834-97de-0fcf63576d03)
+
+3. スペクトログラム
+![スクリーンショット 2025-04-06 155741](https://github.com/user-attachments/assets/99dbf1af-626c-4e5f-8e50-b4b3b76f4239)
   
 # 動作環境：  
 VS code  
